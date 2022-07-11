@@ -1,4 +1,10 @@
-### Hi there 👋
+- 👋 Hi, How to reach me - IG: @Jingyouni
+
+<h1 align="center" > Jeffrey Gu </h1>
+
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=jeffreyouni&&show_icons=true&theme=dracula" />
+</p>
 
 <!--
 **jeffreyouni/jeffreyouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
