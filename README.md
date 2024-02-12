@@ -1,5 +1,5 @@
-- 👋 Hi, How to reach me - IG: @Jingyouni
-- This is my personal blog: http://hacktech.top Deprercated: ~~http://hacktechs.top~~
+- 👋 Hi, How to reach me - https://gujingyan.com
+- This is my personal blog: https://hacktech.top Deprercated: ~~http://hacktechs.top~~
 
 
 <h1 align="center" > Jeffrey Gu </h1>
